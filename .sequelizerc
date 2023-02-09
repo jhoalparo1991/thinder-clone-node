@@ -1,0 +1,6 @@
+module.exports = {
+  config: "./api/config/config.js",
+  "models-path": ["./api/components/users/model.js"],
+  "seeders-path": "",
+  "migrations-path": "./migrations",
+};
